@@ -1,0 +1,9 @@
+interested to know more about area element
+mp3 in the audio element isn't playing
+majhe majhe element type korar por majhe content likhle element gula erase hote thake keno
+base element
+bdi element problem solves with lang=en
+why mu bdo values are bold?
+blockquote element keno use kori
+in the button tag I used apostrophe in the alert but it doesn't work
+table border isn't working
