@@ -7,3 +7,4 @@ why mu bdo values are bold?
 blockquote element keno use kori
 in the button tag I used apostrophe in the alert but it doesn't work
 table border isn't working
+data element, what do the codes do
